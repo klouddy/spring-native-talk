@@ -20,7 +20,7 @@ java -jar target/pure-java-example.jar  0.10s user 0.04s system 64% cpu 0.209 to
 
 `mvn clean pacakge`
 
-`native-iamge -jar target/pure-java-example.jar target/pure-java-native`
+`native-image -jar target/pure-java-example.jar target/pure-java-native`
 
 `./taget/pure-java-native`
 
